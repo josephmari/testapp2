@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Josephs-MacBook-Pro.local" name="com.MekDays.MekEventSpec" tests="1" time="2.424" timestamp="2014-06-10T14:33:52">
+  <properties />
+  <testcase classname="com.MekDays.MekEventSpec" name="test toString" time="2.381" />
+  <system-out><![CDATA[--Output from test toString--
+]]></system-out>
+  <system-err><![CDATA[--Output from test toString--
+]]></system-err>
+</testsuite>

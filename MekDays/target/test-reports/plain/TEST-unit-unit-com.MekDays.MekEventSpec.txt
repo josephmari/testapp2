@@ -1,0 +1,10 @@
+Testsuite: com.MekDays.MekEventSpec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 2.424 sec
+------------- Standard Output ---------------
+--Output from test toString--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test toString--
+------------- ---------------- ---------------
+
+Testcase: test toString took 2.381 sec
